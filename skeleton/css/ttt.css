@@ -1,0 +1,30 @@
+.square {
+  list-style: none;
+  float: left;
+  height: 50px;
+  width: 50px;
+  outline: 1px solid black;
+}
+
+li {
+  float: left;
+}
+
+/*.row {
+  position: relative;
+  height: 500px;
+  width: 100%;
+  border: 1px solid red;
+}*/
+
+.ttt {
+  /*height: 1000px;*/
+  width: 200px;
+  margin: 0 auto;
+
+
+}
+
+h1 {
+  text-align: center;
+}
