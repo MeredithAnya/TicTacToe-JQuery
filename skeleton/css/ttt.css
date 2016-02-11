@@ -8,12 +8,12 @@
   background-color: gray;
   font-size: 60px;
   text-align: center;
-  font-family: "comic sans", sans-serif;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
 
 .square:hover {
   background-color: yellow;
-  cursor: pointer; 
+  cursor: pointer;
 }
 
 .square:active {
@@ -41,7 +41,7 @@ ul.group {
 
 h1 {
   font-size: 96px;
-  font-family: "comic sans", sans-serif;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
   text-align: center;
 }
 
@@ -52,6 +52,7 @@ footer {
   position: absolute;
   margin: 0 auto;
   width: 100%;
+  font-family: papyrus;
 }
 
 .group:after {
